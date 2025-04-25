@@ -2,3 +2,6 @@ git add dashboards/
 git commit -m "Add Grafana dashboard JSON"
 git push
 
+http://localhost:3000/d/rYdddlPWk/node-exporter-full?orgId=1&from=now-5m&to=now&timezone=browser&var-datasource=default&var-job=node_exporter&var-nodename=XORG&var-node=localhost:9100&var-diskdevices=%5Ba-z%5D%2B%7Cnvme%5B0-9%5D%2Bn%5B0-9%5D%2B%7Cmmcblk%5B0-9%5D%2B&refresh=5s
+
+http://localhost:9090/targets?search=
