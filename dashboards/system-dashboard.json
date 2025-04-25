@@ -1,0 +1,4 @@
+git add dashboards/
+git commit -m "Add Grafana dashboard JSON"
+git push
+
